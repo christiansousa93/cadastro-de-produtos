@@ -1,7 +1,7 @@
 
 ## Cadastro de produtos com MySQL
 ## Aluno: Witney Christian Sousa da Silva
-## Profº: Tarik Porciano
+## Profº: Tarik Ponciano
 ## Curso: Desenvolvimento de Sistemas - SENAC
  
  
@@ -25,7 +25,7 @@ Editar o item cadastrado, trocar as informações como código, nome e preço.
  
  
  
-Banco de dados MySQL
+Banco de dados MySQL.
  
   
 ![image](https://user-images.githubusercontent.com/103544118/221064548-935cd430-b3c9-49a2-ad6e-306f1ebf24d7.png)
