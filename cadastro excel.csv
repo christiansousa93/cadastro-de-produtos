@@ -1,0 +1,11 @@
+id,codigo,descricao,preco,categoria
+7,1,Teclado,50,Informatica
+8,2,Mouse,20,Informatica
+9,3,Monitor,500,Informatica
+10,4,Gabinete,200,Informatica
+11,5,Televisão,2000,Eletronicos
+12,6,"Home Theater",1000,Eletronicos
+13,7,"Porta Retrato Digital",300,Eletronicos
+14,8,Arroz,5.8,Alimentos
+15,9,Macarrão,4.7,Alimentos
+16,10,Frango,12.9,Alimentos
